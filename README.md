@@ -1,6 +1,7 @@
 # minecraft
 Comandos para subir um servidor de Minecraft na AWS, mais ou menos automaticamente
-*alterar o nome do <bucket>
+
+- alterar o nome do bucket
 
 ```
 sudo yum -y install java-1.8.0
